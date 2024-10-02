@@ -1,7 +1,7 @@
 replicaCount: 3
 
 image:
-  repository: srikanth1685/helloworldex
+  repository: srikanth1685/helloworldex:latest
   tag: latest
   pullPolicy: IfNotPresent
 
